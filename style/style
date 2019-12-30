@@ -1,1 +1,27 @@
-
+#style
+    <style>
+       h1{
+           color:blue;
+       }
+       .artistas{
+       color: rgb(255,51,0);
+       }
+       h2{
+           color:red;
+       }
+           body{
+               background-color : green;
+       }
+       .canciones{
+           color:orange;
+       }
+       .títulos{
+           color:pink;
+       }
+       .discografía{
+           color:yellow;
+       }
+       h3{
+       color: rgb (9,148,240);
+       }
+       </style>
