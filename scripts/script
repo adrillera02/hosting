@@ -2,7 +2,7 @@ let myImage = document.querySelector('img');
 
 myImage.onclick = function() {
 let mySrc = myImage.getAttribute('src');
-if(mySrc === 'images/música.jpg') {
+if(mySrc === 'images/musica.jpg') {
 myImage.setAttribute ('src', 'images/music.1046475_640.jpg');
 } else {
 myImage.setAttribute('images/música.jpg');
