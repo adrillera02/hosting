@@ -1,19 +1,20 @@
-Licencias que no son de software
+Non-Software Licenses
 
-Las licencias de software de código abierto también se pueden usar para trabajos que no son de software y, a menudo, son la mejor opción, especialmente cuando los trabajos en cuestión se pueden editar y versionar como fuente (por ejemplo, diseños de hardware de código abierto). Elija una licencia de código abierto aquí.
+Open source software licenses can be also used for non-software works and are often the best choice, especially when the works in question can be edited and versioned as source (e.g., open source hardware designs). Choose an open source license here.
 
-Datos, medios, etc.
+Data, media, etc.
 
-CC0-1.0, CC-BY-4.0 y CC-BY-SA-4.0 son licencias abiertas utilizadas para material que no es de software, desde conjuntos de datos hasta videos. Tenga en cuenta que CC-BY-4.0 y CC-BY-SA-4.0 no deben usarse para el software.
+CC0-1.0, CC-BY-4.0, and CC-BY-SA-4.0 are open licenses used for non-software material ranging from datasets to videos. Note that CC-BY-4.0 and CC-BY-SA-4.0 should not be used for software.
 
-Documentación
+Documentation
 
-Cualquier licencia de software de código abierto o licencia abierta para medios (ver arriba) también se aplica a la documentación del software. Si usa diferentes licencias para su software y su documentación, asegúrese de especificar que los ejemplos de código fuente en la documentación también se licencian bajo la licencia de software.
+Any open source software license or open license for media (see above) also applies to software documentation. If you use different licenses for your software and its documentation, be sure to specify that source code examples in the documentation are also licensed under the software license.
 
-Fuentes
+Fonts
 
-La licencia SIL Open Font License 1.1 mantiene las fuentes abiertas pero permite que se utilicen libremente en otras obras.
+The SIL Open Font License 1.1 keeps fonts open but allows them to be freely used in other works.
 
-Proyectos mixtos
+Mixed Projects
 
-Si su proyecto contiene una combinación de software y otro material, puede incluir varias licencias, siempre y cuando sea explícito sobre qué licencia se aplica a cada parte del proyecto. Consulte el aviso de licencia de este sitio como ejemplo.
+If your project contains a mix of software and other material, you can include multiple licenses, as long as you are explicit about which license applies to each part of the project. See the license notice for this site as an example.
+
